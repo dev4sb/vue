@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Category.vue",
+    "chunkName": "_theme/pages/Category",
+    "url": "/Category",
+    "_name": "_7a8fa09c"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___en",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Billing.vue",
+        "url": "/checkout/billing",
+        "_name": "_4b4f6974"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "url": "/checkout/payment",
+        "_name": "_79079d51"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "url": "/checkout/shipping",
+        "_name": "_9f29581a"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "url": "/checkout/thank-you",
+        "_name": "_cc0dc0cc"
+      }
+    ],
+    "_name": "_007f5bfa"
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout.vue",
+    "chunkName": "_theme/pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___en",
+        "path": "Billing",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Billing.vue",
+        "chunkName": "_theme/pages/Checkout/Billing",
+        "url": "/Checkout/Billing",
+        "_name": "_4b4f6974"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "chunkName": "_theme/pages/Checkout/Payment",
+        "url": "/Checkout/Payment",
+        "_name": "_79079d51"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "chunkName": "_theme/pages/Checkout/Shipping",
+        "url": "/Checkout/Shipping",
+        "_name": "_9f29581a"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "chunkName": "_theme/pages/Checkout/ThankYou",
+        "url": "/Checkout/ThankYou",
+        "_name": "_cc0dc0cc"
+      }
+    ],
+    "_name": "_007f5bfa"
+  },
+  {
+    "name": "ContactUs___en",
+    "path": "/ContactUs",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ContactUs.vue",
+    "chunkName": "_theme/pages/ContactUs",
+    "url": "/ContactUs",
+    "_name": "_aa51a24c"
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Home.vue",
+    "url": "/de",
+    "_name": "_1ac17d13"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Home.vue",
+    "chunkName": "_theme/pages/Home",
+    "url": "/Home",
+    "_name": "_1ac17d13"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount.vue",
+    "chunkName": "_theme/pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___en",
+        "path": "AdressBook",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/AdressBook.vue",
+        "chunkName": "_theme/pages/MyAccount/AdressBook",
+        "url": "/MyAccount/AdressBook",
+        "_name": "_639597c1"
+      },
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/BillingDetails",
+        "url": "/MyAccount/BillingDetails",
+        "_name": "_a56f38ee"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "_theme/pages/MyAccount/LoyaltyCard",
+        "url": "/MyAccount/LoyaltyCard",
+        "_name": "_131cd324"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "_theme/pages/MyAccount/MyNewsletter",
+        "url": "/MyAccount/MyNewsletter",
+        "_name": "_a7493172"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyProfile.vue",
+        "chunkName": "_theme/pages/MyAccount/MyProfile",
+        "url": "/MyAccount/MyProfile",
+        "_name": "_866c61ea"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyReviews.vue",
+        "chunkName": "_theme/pages/MyAccount/MyReviews",
+        "url": "/MyAccount/MyReviews",
+        "_name": "_044cb07d"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "_theme/pages/MyAccount/OrderHistory",
+        "url": "/MyAccount/OrderHistory",
+        "_name": "_f0beeeb0"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/ShippingDetails",
+        "url": "/MyAccount/ShippingDetails",
+        "_name": "_a8c1153c"
+      }
+    ],
+    "_name": "_4a86695d"
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Product.vue",
+    "chunkName": "_theme/pages/Product",
+    "url": "/Product",
+    "_name": "_6a6cad6b"
+  },
+  {
+    "name": "reset-password___en",
+    "path": "/reset-password",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ResetPassword.vue",
+    "url": "/reset-password",
+    "_name": "_481c3d06"
+  },
+  {
+    "name": "ResetPassword___en",
+    "path": "/ResetPassword",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ResetPassword.vue",
+    "chunkName": "_theme/pages/ResetPassword",
+    "url": "/ResetPassword",
+    "_name": "_481c3d06"
+  },
+  {
+    "name": "TermsAndConditions___en",
+    "path": "/TermsAndConditions",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/TermsAndConditions.vue",
+    "chunkName": "_theme/pages/TermsAndConditions",
+    "url": "/TermsAndConditions",
+    "_name": "_8f8dbf48"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Category.vue",
+    "chunkName": "_theme/pages/Category",
+    "url": "/de/Category",
+    "_name": "_7a8fa09c"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___de",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Billing.vue",
+        "url": "/de/checkout/billing",
+        "_name": "_4b4f6974"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "url": "/de/checkout/payment",
+        "_name": "_79079d51"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "url": "/de/checkout/shipping",
+        "_name": "_9f29581a"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "url": "/de/checkout/thank-you",
+        "_name": "_cc0dc0cc"
+      }
+    ],
+    "_name": "_007f5bfa"
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout.vue",
+    "chunkName": "_theme/pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___de",
+        "path": "Billing",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Billing.vue",
+        "chunkName": "_theme/pages/Checkout/Billing",
+        "url": "/de/Checkout/Billing",
+        "_name": "_4b4f6974"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Payment.vue",
+        "chunkName": "_theme/pages/Checkout/Payment",
+        "url": "/de/Checkout/Payment",
+        "_name": "_79079d51"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/Shipping.vue",
+        "chunkName": "_theme/pages/Checkout/Shipping",
+        "url": "/de/Checkout/Shipping",
+        "_name": "_9f29581a"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Checkout/ThankYou.vue",
+        "chunkName": "_theme/pages/Checkout/ThankYou",
+        "url": "/de/Checkout/ThankYou",
+        "_name": "_cc0dc0cc"
+      }
+    ],
+    "_name": "_007f5bfa"
+  },
+  {
+    "name": "ContactUs___de",
+    "path": "/de/ContactUs",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ContactUs.vue",
+    "chunkName": "_theme/pages/ContactUs",
+    "url": "/de/ContactUs",
+    "_name": "_aa51a24c"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Home.vue",
+    "chunkName": "_theme/pages/Home",
+    "url": "/de/Home",
+    "_name": "_1ac17d13"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount.vue",
+    "chunkName": "_theme/pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___de",
+        "path": "AdressBook",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/AdressBook.vue",
+        "chunkName": "_theme/pages/MyAccount/AdressBook",
+        "url": "/de/MyAccount/AdressBook",
+        "_name": "_639597c1"
+      },
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/BillingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/BillingDetails",
+        "url": "/de/MyAccount/BillingDetails",
+        "_name": "_a56f38ee"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/LoyaltyCard.vue",
+        "chunkName": "_theme/pages/MyAccount/LoyaltyCard",
+        "url": "/de/MyAccount/LoyaltyCard",
+        "_name": "_131cd324"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyNewsletter.vue",
+        "chunkName": "_theme/pages/MyAccount/MyNewsletter",
+        "url": "/de/MyAccount/MyNewsletter",
+        "_name": "_a7493172"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyProfile.vue",
+        "chunkName": "_theme/pages/MyAccount/MyProfile",
+        "url": "/de/MyAccount/MyProfile",
+        "_name": "_866c61ea"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/MyReviews.vue",
+        "chunkName": "_theme/pages/MyAccount/MyReviews",
+        "url": "/de/MyAccount/MyReviews",
+        "_name": "_044cb07d"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/OrderHistory.vue",
+        "chunkName": "_theme/pages/MyAccount/OrderHistory",
+        "url": "/de/MyAccount/OrderHistory",
+        "_name": "_f0beeeb0"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount/ShippingDetails.vue",
+        "chunkName": "_theme/pages/MyAccount/ShippingDetails",
+        "url": "/de/MyAccount/ShippingDetails",
+        "_name": "_a8c1153c"
+      }
+    ],
+    "_name": "_4a86695d"
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Product.vue",
+    "chunkName": "_theme/pages/Product",
+    "url": "/de/Product",
+    "_name": "_6a6cad6b"
+  },
+  {
+    "name": "reset-password___de",
+    "path": "/de/reset-password",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ResetPassword.vue",
+    "url": "/de/reset-password",
+    "_name": "_481c3d06"
+  },
+  {
+    "name": "ResetPassword___de",
+    "path": "/de/ResetPassword",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/ResetPassword.vue",
+    "chunkName": "_theme/pages/ResetPassword",
+    "url": "/de/ResetPassword",
+    "_name": "_481c3d06"
+  },
+  {
+    "name": "TermsAndConditions___de",
+    "path": "/de/TermsAndConditions",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/TermsAndConditions.vue",
+    "chunkName": "_theme/pages/TermsAndConditions",
+    "url": "/de/TermsAndConditions",
+    "_name": "_8f8dbf48"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount.vue",
+    "_name": "_4a86695d"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Product.vue",
+    "_name": "_6a6cad6b"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Category.vue",
+    "_name": "_7a8fa09c"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/MyAccount.vue",
+    "_name": "_4a86695d"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Product.vue",
+    "_name": "_6a6cad6b"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Category.vue",
+    "_name": "_7a8fa09c"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "/home/setubridge-32/vuestorefront/17/newdefaultbkp/newdefault/shopify-1.0.17/packages/theme/_theme/pages/Home.vue",
+    "url": "/",
+    "_name": "_1ac17d13"
+  }
+]
